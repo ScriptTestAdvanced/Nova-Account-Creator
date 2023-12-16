@@ -11,4 +11,7 @@ Anti Virus must be off for it to work! Otherwise, it won't work!
 4. If logging in doesnt work, try again tommorow as it will IP Ban you.
 
 # Video Proof
-Video Proof will be sent to you in DMs from **thatdude128**
+Incase you think its a virus, here is proof its not.
+
+https://github.com/ScriptTestAdvanced/Nova-Account-Creator/assets/118435231/c54b858b-0f34-4280-997d-d69b5a4c6bf9
+
